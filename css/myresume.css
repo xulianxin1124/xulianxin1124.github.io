@@ -15,9 +15,11 @@ P{font-family: 'Noto Sans TC', sans-serif;
 }
 
 .text-primary {
-	color:#CA82FF;
+	color:#CA82FF!important;
 }		
 
 a {
     color: #CA82FF;
 }
+
+
