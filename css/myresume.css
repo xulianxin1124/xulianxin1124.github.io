@@ -17,3 +17,7 @@ P{font-family: 'Noto Sans TC', sans-serif;
 .text-primary {
 	color:#gray
 }		
+
+a {
+    color: #4028EB;
+}
