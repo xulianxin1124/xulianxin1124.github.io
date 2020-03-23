@@ -22,4 +22,6 @@ a {
     color: #CA82FF;
 }
 
-
+.bg-primary {
+    background-color:#CA82FF!important;
+}
