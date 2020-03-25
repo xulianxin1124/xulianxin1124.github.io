@@ -4,7 +4,7 @@ body {
 
 h1, h2, h3, h4, h5, h6{
 	font-family: 'Noto Sans TC', sans-serif;
-	font-transform: none;
+	text-transform: none;
 }
 
 .subheading{
@@ -21,7 +21,11 @@ P{font-family: 'Noto Sans TC', sans-serif;
 
 .text-primary{
 	font-size: 3rem;
-	font-height: 3rem;
+	line-height: 3rem;
+}
+
+h2 {
+    font-size: 3.5rem;
 }
 
 a {
