@@ -6,6 +6,10 @@ h1, h2, h3, h4, h5, h6{
 	font-family: 'Noto Sans TC', sans-serif;
 }
 
+h1{
+	font-transform: none;
+}
+
 .subheading{
 	font-family: 'Noto Sans TC', sans-serif;
 }
@@ -21,6 +25,7 @@ P{font-family: 'Noto Sans TC', sans-serif;
 .text-primary{
 	font-size: 3rem;
 	font-height: 3rem;
+}
 
 a {
     color: #CA82FF;
