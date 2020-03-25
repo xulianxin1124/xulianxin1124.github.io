@@ -18,6 +18,10 @@ P{font-family: 'Noto Sans TC', sans-serif;
 	color:#CA82FF!important;
 }		
 
+.text-primary{
+	font-size: 3rem;
+	font-height: 3rem;
+
 a {
     color: #CA82FF;
 }
