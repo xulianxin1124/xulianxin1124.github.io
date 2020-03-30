@@ -33,7 +33,5 @@ a {
 }
 
 .bg-primary {
-    background-color: rgb(202, 130, 255);
-    background-color: rgba(138, 43, 226, 0);
     background-image: url("../img/asfalt-light.png"); 
 }
