@@ -33,7 +33,9 @@ a {
 }
 
 .bg-primary {
-    background-color: #1a0017;
 background-image: url("https://www.transparenttextures.com/patterns/axiom-pattern.png");
-    
+}
+
+.bg-primary {
+    background-color: #1a0017;
 }
