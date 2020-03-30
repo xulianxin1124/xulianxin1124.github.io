@@ -16,7 +16,7 @@ P{font-family: 'Noto Sans TC', sans-serif;
 }
 
 .text-primary {
-	color:#CA82FF!important;
+	color:#black !important;
 }		
 
 .text-primary{
@@ -29,7 +29,7 @@ h2 {
 }
 
 a {
-    color: #CA82FF;
+    color: #black;
 }
 
 .bg-primary {
