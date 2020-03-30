@@ -39,3 +39,8 @@ background-image: url("https://www.transparenttextures.com/patterns/axiom-patter
 .bg-primary {
     background-color: #1a0017!important;
 }
+
+body {
+background-color: #68706f;
+background-image: url("https://www.transparenttextures.com/patterns/wild-flowers.png");
+}
