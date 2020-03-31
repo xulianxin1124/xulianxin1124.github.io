@@ -35,11 +35,12 @@ a {
 }
 
 .bg-primary {
-background-image: url("https://www.transparenttextures.com/patterns/axiom-pattern.png");
+
+background-image: url("https://www.transparenttextures.com/patterns/txture.png");
 }
 
 .bg-primary {
-    background-color: #1a0017!important;
+	background-color: #2c3322!important;
 }
 
 body {
