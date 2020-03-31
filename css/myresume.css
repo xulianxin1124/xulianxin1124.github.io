@@ -17,7 +17,7 @@ P{
 }
 
 .text-primary {
-	color:	#252906 !important;
+	color:	#676f29!important;
 }		
 
 .text-primary{
@@ -31,7 +31,7 @@ h2 {
 
 a {
     text-transform: none;	
-    color: 	#252906;
+    color: 	#676f29;
 }
 
 .bg-primary {
@@ -49,6 +49,10 @@ background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.
 }
 
 h1{
-	color:	#252906;
+	color:	#676f29;
+}
+
+h3{
+	color:	#676f29;
 }
 
