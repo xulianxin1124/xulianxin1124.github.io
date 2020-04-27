@@ -69,7 +69,7 @@ tr{
 	border:double;
 }
 
-tr:nth-child(even) {background-color:#ddd;}
+tr:nth-child(even) {background-color:#pink;}
 
 tr:hover{
 	font-weight:bold;
