@@ -64,10 +64,13 @@ table{
 tr:hover{
 	font-weight:bold;
 }
+
 td{
 	 text-transform: none;     
 }
 
-tr,td{
+tr{
 	border:1px double;
 }
+
+tr:nth-child(even) {background-color:#ddd;}
