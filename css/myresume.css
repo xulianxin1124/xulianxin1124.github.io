@@ -58,15 +58,12 @@ h3{
 
 table{
 	width:80%;
-        height:80%
+        height:80%;
+        border:double;
 }
 
 td{
 	 text-transform: none;     
-}
-
-tr{
-	border:double;
 }
 
 tr:nth-child(even) {background-color:#pink;}
