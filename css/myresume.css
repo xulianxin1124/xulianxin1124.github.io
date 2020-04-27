@@ -61,10 +61,6 @@ table{
 
 }
 
-tr:hover{
-	font-weight:bold;
-}
-
 td{
 	 text-transform: none;     
 }
