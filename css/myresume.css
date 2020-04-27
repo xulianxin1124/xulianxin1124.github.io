@@ -58,6 +58,7 @@ h3{
 
 table{
 	width:80%;
+border-collapse: collapse;
 }
 
 tr:hover{
