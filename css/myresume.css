@@ -69,3 +69,7 @@ td{
 tr:hover{
 	font-weight:bold;
 }
+
+th, td {
+  padding: 8px;
+}
