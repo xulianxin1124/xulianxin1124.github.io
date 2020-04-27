@@ -56,3 +56,18 @@ h3{
 	color:	#676f29;
 }
 
+table{
+	width:80%;
+}
+
+tr:hover{
+	font-weight:bold;
+}
+td{
+	 text-transform: none;     
+}
+
+tr,td{
+	border-bottom:1px solid #gray;
+	
+}
