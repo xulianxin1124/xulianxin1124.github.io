@@ -70,3 +70,7 @@ tr{
 }
 
 tr:nth-child(even) {background-color:#ddd;}
+
+tr:hover{
+	font-weight:bold;
+}
