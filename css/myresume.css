@@ -68,6 +68,5 @@ td{
 }
 
 tr,td{
-	border-bottom:1px solid #gray;
-	
+	border:1px double;
 }
