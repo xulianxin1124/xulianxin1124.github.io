@@ -78,5 +78,9 @@ th, td {
     width: 30%;
     height: 300px;
     border: 4px solid ##676f29;
-    margin: 50px;
+    margin:40px;
+}
+
+p.{
+	margin:10px;
 }
