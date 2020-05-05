@@ -82,5 +82,6 @@ th, td {
 }
 
 card-1,p{
+        border: 4px solid #676f29;
 	margin:10px;
 }
