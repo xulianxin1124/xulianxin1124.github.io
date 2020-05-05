@@ -75,9 +75,9 @@ th, td {
 }
 
 .card-1{
-    width: 500px;
-    height: 250px;
+    width: 260px;
+    height: 400px;
     border: 4px dotted #8c1ed7;
     border-radius: 0 0 10% 10%;
-    margin: 20px;
+    margin: 30px;
 }
