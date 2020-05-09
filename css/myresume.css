@@ -82,6 +82,10 @@ div#container{
 #child_div{
     width: 30%;
     height: 300px;
-    border:2px dotted #gray;
+    border:6px dotted #black;
     margin:60px;
+}
+
+#child_div_div{
+ margin:5rem;
 }
