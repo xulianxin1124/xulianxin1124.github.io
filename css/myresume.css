@@ -82,15 +82,11 @@ div#container{
 div#flex_container{
 	display:flex;
 	flex-direction:row;
+	flex-wrap:wrap;
 }
 
 #child_div{
     width: 30%;
     height: 300px;
-    border:6px dotted #black;
     margin:60px;
-}
-
-#child_div_div{
- margin:5rem;
 }
