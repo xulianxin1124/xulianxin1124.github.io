@@ -82,6 +82,6 @@ div#container{
 #child_div{
     width: 30%;
     height: 300px;
-    background-color:#676f29;
+    border:2px dotted #gray;
     margin:40px;
 }
