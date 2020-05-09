@@ -82,10 +82,12 @@ div#container{
 div#flex_container{
 	display:flex;
 	flex-direction:row;
+        flex-wrap:wrap;
 }
 
 #child_div{
     width: 30%;
     height: 300px;
-    margin:20px;
+    background-color:#gray;
+    margin:auto;
 }
