@@ -89,6 +89,9 @@ div#flex_container{
     width: 30%;
     height: 300px;
     background-color:#gray;
-    padding:2rem;
     margin:auto;
+}
+
+img.middle {
+  vertical-align: middle;
 }
