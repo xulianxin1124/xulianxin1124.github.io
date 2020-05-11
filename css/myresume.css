@@ -87,8 +87,9 @@ div#flex_container{
 }
 
 .child_div{
-	background-color:#ffffff;
+	background-color:#ff00ff;
 	text-align:center!important;
+	margin:8px;
 	paddind:8px;
 }
 
