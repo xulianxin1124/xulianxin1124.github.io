@@ -89,7 +89,7 @@ div#flex_container{
 	margin:20px;
 }
 
-#child_div{
+.child_div{
 	padding:8px;
 	margin:30px;
 	background-color:#D4FFD4;
