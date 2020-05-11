@@ -77,6 +77,7 @@ th, td {
 
 div#container{
 	background-color:#D4FFD4;
+	margin:20px;
 }
 
 div#flex_container{
@@ -84,11 +85,12 @@ div#flex_container{
 	display:flex;
 	flex-direction:row;
         flex-wrap:wrap;
+	margin:20px;
 }
 
 #child_div{
 	padding:8px;
-	margin:30;
+	margin:30px;
 	background-color:#B87800;
 	text-align:center;
 }
