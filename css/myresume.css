@@ -88,6 +88,7 @@ div#flex_container{
 #child_div{
     width: 50%;
     height: 300px;
+    border:2px double #black;
     background-color:#676f29;
     margin:auto;
 }
