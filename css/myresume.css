@@ -80,15 +80,15 @@ div#container{
 }
 
 div#flex_container{
-	background-color:#ffffff;
+	background-color:#D4FFD4;
 	display:flex;
 	flex-direction:row;
         flex-wrap:wrap;
 }
 
 .child_div{
-	background-color:#D4FFD4;
+	background-color:#ffffff;
 	text-align:center!important;
-	margin:5px;
+	paddind:8px;
 }
 
