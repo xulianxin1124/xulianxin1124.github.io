@@ -76,7 +76,7 @@ th, td {
 }
 
 div#container{
-	border:4px dotted #B87800;
+	background-color:#ffffff;
 }
 
 div#flex_container{
@@ -87,7 +87,7 @@ div#flex_container{
 }
 
 .child_div{
-	background-color:#ff00ff;
+	border:double;
 	text-align:center!important;
 	margin:8px;
 	paddind:8px;
