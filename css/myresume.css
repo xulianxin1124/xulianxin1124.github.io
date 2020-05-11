@@ -85,17 +85,12 @@ div#flex_container{
         flex-wrap:wrap;
   justify-content: center;
   align-items: center;
-  height: 200px;
 }
 
 #child_div{
 	padding:8px;
+	margin:20px;
 	border:4px dotted #676f29;
 	text-align:center;
 }
 
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
