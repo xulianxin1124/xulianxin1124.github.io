@@ -76,10 +76,11 @@ th, td {
 }
 
 div#container{
-	background-color:#FFD78C;
+	background-color:#D4FFD4;
 }
 
 div#flex_container{
+	background-color:#FFFFD4;
 	display:flex;
 	flex-direction:row;
         flex-wrap:wrap;
@@ -90,7 +91,7 @@ div#flex_container{
 #child_div{
 	padding:8px;
 	margin:30;
-	border:4px dotted #676f29;
+	background-color:#B87800;
 	text-align:center;
 }
 
