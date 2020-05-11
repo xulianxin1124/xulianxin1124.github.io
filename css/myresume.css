@@ -82,7 +82,7 @@ div#container{
 }
 
 div#flex_container{
-	background-color:#FFFFD4;
+	background-color:#B87800;
 	display:flex;
 	flex-direction:row;
         flex-wrap:wrap;
@@ -92,7 +92,7 @@ div#flex_container{
 #child_div{
 	padding:8px;
 	margin:30px;
-	background-color:#B87800;
-	text-align: right;
+	background-color:#FFFFD4;
+	text-align:right;
 }
 
