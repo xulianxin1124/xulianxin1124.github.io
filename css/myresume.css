@@ -76,8 +76,9 @@ th, td {
 }
 
 div#container{
-	background-color:#D4FFD4;
 	margin:20px;
+	border:4px dotted #D4FFD4;
+	
 }
 
 div#flex_container{
@@ -92,6 +93,6 @@ div#flex_container{
 	padding:8px;
 	margin:30px;
 	background-color:#B87800;
-	text-align:center;
+	text-align: right;
 }
 
