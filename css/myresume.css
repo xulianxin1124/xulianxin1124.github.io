@@ -86,7 +86,7 @@ div#flex_container{
 }
 
 #child_div{
-	border-style:dotted;
+	border:4px dotted ##676f29;
 	
 }
 
