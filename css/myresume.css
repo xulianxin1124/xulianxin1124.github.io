@@ -13,7 +13,8 @@ h1, h2, h3, h4, h5, h6{
 
 P{
 	font-family: 'Noto Sans TC', sans-serif;
-        text-transform: none;     
+        text-transform: none; 
+        white-space:pre;     
 }
 
 .text-primary {
@@ -93,3 +94,4 @@ div#flex_container{
     margin:auto;
     padding:2rem;
 }
+
