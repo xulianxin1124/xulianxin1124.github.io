@@ -89,5 +89,6 @@ div#flex_container{
 .child_div{
 	background-color:#D4FFD4;
 	text-align:center!important;
+	margin:5px;
 }
 
