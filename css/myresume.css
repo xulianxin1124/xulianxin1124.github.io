@@ -77,12 +77,12 @@ th, td {
 
 div#container{
 	margin:20px;
-	border:4px dotted #D4FFD4;
+	border:4px dotted #B87800;
 	
 }
 
 div#flex_container{
-	background-color:#B87800;
+	background-color:#ffffff;
 	display:flex;
 	flex-direction:row;
         flex-wrap:wrap;
@@ -92,7 +92,7 @@ div#flex_container{
 #child_div{
 	padding:8px;
 	margin:30px;
-	background-color:#FFFFD4;
-	text-align:right;
+	background-color:#D4FFD4;
+	text-align:center!important;
 }
 
