@@ -88,12 +88,6 @@ div#flex_container{
 .child_div{
 	border:double;
 	text-align:center!important;
-	margin:8px;
-	paddind:8px;
-}
-
-.child_div_{
-	border:solid;
-	margin:8px;
+	margin:10px;
 	paddind:8px;
 }
