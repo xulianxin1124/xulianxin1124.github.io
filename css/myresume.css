@@ -94,3 +94,8 @@ div#flex_container{
 h5.dis{
 	margin:8px;
 }
+
+p.end{
+	background-color:#black;
+	text-align:center!important;
+}
